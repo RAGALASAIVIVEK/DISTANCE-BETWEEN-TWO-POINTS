@@ -1,15 +1,16 @@
-# DISTANCE-BETWEEN-TWO-POINTS![Screenshot from 2023-10-28 17-28-19](https://github.com/RAGALASAIVIVEK/DISTANCE-BETWEEN-TWO-POINTS/assets/144979718/48dbca14-a392-4239-9bab-fec15b25f408)
+# DISTANCE-BETWEEN-TWO-POINTS
 
 
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
-### Step 5: 
+### Step 1: Import math
+### Step 2: assign the values of two points
+### Step 3: Substitute the values in the distance formula eig
+### Step 4: Substitute the values in the distance formula  ![formula](/formula.JPG)
+### Step 4: Print the values
+### Step 5: End the program
+
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
@@ -29,4 +30,4 @@ print(f"{bridge_length}")
 
 
 ### RESULT:
-thus the program excuted successfully
+Thus the distance between two points are successfully found.
